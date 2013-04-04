@@ -1,0 +1,9 @@
+{
+    "name": "trentrichardson/jquery-timepicker-addon"
+  , "description": "The timepicker addon adds a timepicker to jQuery UI Datepicker, thus the datepicker and slider components (jQueryUI) are required for using any of these."
+  , "keywords": ["jquery timepicker"]
+  , "homepage": "http://trentrichardson.com/examples/timepicker/"
+  , "author": "Trent Richardson"
+  , "license": "Apache-2.0"
+
+}
